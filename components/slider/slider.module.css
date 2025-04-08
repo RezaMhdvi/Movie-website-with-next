@@ -1,0 +1,16 @@
+.slider{
+    height: 500px;
+}
+
+.img_slider{
+    position: absolute;
+    height: 100%;
+}
+
+.text_img_slider{
+    position: absolute;
+    right: 50px;
+    bottom: 100px;
+    color: white !important;
+    
+}

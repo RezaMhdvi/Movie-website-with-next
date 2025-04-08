@@ -1,0 +1,17 @@
+.navbar {
+    direction: rtl;
+}
+
+.navbar_img{
+    height: 40px;
+
+}
+
+.link{
+    text-decoration: none;
+}
+
+.auth_button{
+    width: 100px;
+    margin-left: auto;
+}
